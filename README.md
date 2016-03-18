@@ -1,2 +1,3 @@
 # hello_friend
-A first repository.
+
+It's a small world after all.
